@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am currently working as a professor of Software Engineering<br>- 🌱 I am currently learning Python libraries<br>- 👯 It is always easier and more comfortable to work with people<br>- 💬 Ask me about project and jobs<br>- 📫 How to contact me: 📱 +543496540116 | 📫 adanvolken00@gmail.com<br>- ⚡ Fun fact: I am very interested in artificial intelligence
+- 🔭 I am currently working as a professor of Software Engineering<br>- 🌱 I am currently learning Python libraries<br>- 👯 It is always easier and more comfortable to work with people<br>- 💬 Ask me about project and jobs<br>- 📫 How to contact me:  📫 adanvolken00@gmail.com<br>- ⚡ Fun fact: I am very interested in artificial intelligence
 
 
 ## 🌐 Socials:
